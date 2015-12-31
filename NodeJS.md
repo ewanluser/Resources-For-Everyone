@@ -4,19 +4,11 @@
 * [node.js中文资料导航](https://github.com/youyudehexie/node123?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-
----
-###NodeJS 文章
-
-- [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/) 
-
----
+## 从零开始 – 入门篇
 
 [Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/ "Nodejs学习路线图")
-      
 
----
-### 从零开始 – 入门篇
+[Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
 [准备Nodejs开发环境Ubuntu](http://blog.fens.me/nodejs-enviroment "准备Nodejs开发环境Ubuntu")
 
@@ -43,9 +35,9 @@
 [upstart封装nodejs应用为系统服务](http://blog.fens.me/linux-upstart-nodejs/ "upstart封装nodejs应用为系统服务")
 
 
----
-### 成为高手 – 进阶篇
 
+
+## 成为高手 – 进阶篇
 
 [Nodejs基础中间件Connect](http://blog.fens.me/nodejs-connect/ "Nodejs基础中间件Connect")
 
@@ -87,9 +79,9 @@
 
 [桶排序的Nodejs实现](http://blog.fens.me/algorithm-bucketsort-nodejs/ "桶排序的Nodejs实现")
 
----
 
-### 追根溯源 – 内核篇
+
+## 追根溯源 – 内核篇
 
 [解读Nodejs多核处理模块cluster](http://blog.fens.me/nodejs-core-cluster/ "解读Nodejs多核处理模块cluster")
 
@@ -103,9 +95,8 @@
 
 [Node.js进程通信模块child_process](http://blog.fens.me/nodejs-child-process/ "Node.js进程通信模块child_process")
 
----
 
-### 跨界应用 – 创造篇
+## 跨界应用 – 创造篇
 
 [Nodejs与R跨平台通信](http://blog.fens.me/r-rserve-nodejs/ "Nodejs与R跨平台通信")
 
@@ -113,9 +104,8 @@
 
 [用Highcharts轻松构建交互性图表](http://blog.fens.me/nodejs-highcharts/ "用Highcharts轻松构建交互性图表")
 
----
 
-### 利剑在手 – 工具篇
+##利剑在手 – 工具篇
 
 [RequireJS异步模块加载](http://blog.fens.me/nodejs-requirejs/ "RequireJS异步模块加载")
 
@@ -143,9 +133,8 @@
 
 [Marked高效的Markdown解析器](http://blog.fens.me/nodejs-markdown-marked/ "Marked高效的Markdown解析器")
 
----
 
-### Web技术 – 应用篇
+## Web技术 – 应用篇
 
 [Hexo在github上构建免费的Web应用](http://blog.fens.me/hexo-blog-github/ "Hexo在github上构建免费的Web应用")
 
