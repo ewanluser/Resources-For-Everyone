@@ -4,14 +4,17 @@
 * [node.js中文资料导航](https://github.com/youyudehexie/node123?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 ***
-### NodeJS 实践
-* [一个简单的博客](https://github.com/nswbmw/N-blog/wiki/%E7%AC%AC1%E7%AB%A0--%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2)
-
-----
-[Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/ "Nodejs学习路线图")  
 
 ---
+###NodeJS 文章
+
+- [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/) 
+
+---
+
+[Nodejs学习路线图](http://blog.fens.me/nodejs-roadmap/ "Nodejs学习路线图")
       
+
 ---
 ### 从零开始 – 入门篇
 
@@ -155,4 +158,6 @@
 [30秒制作幻灯片 Cleaver](http://blog.fens.me/nodejs-slide-cleaver/ "30秒制作幻灯片 Cleaver")
 
 [图片延迟加载库Layzr](http://blog.fens.me/nodejs-layzr/ "图片延迟加载库Layzr")
+
+[一个简单的博客](https://github.com/nswbmw/N-blog/wiki/%E7%AC%AC1%E7%AB%A0--%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2)
 
