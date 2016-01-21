@@ -6,6 +6,8 @@
 *  [Front-end Knowledge Points](https://github.com/wwsun/fe-knowledge-points?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 *  [前端工具](https://github.com/icepy/_posts/blob/master/%E9%92%88%E5%AF%B92015%E5%B9%B4%E5%89%8D%E7%AB%AF%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E7%9A%84%E5%B7%A5%E5%85%B7%E7%9A%84%E6%95%99%E7%A8%8B%E9%9B%86%E5%90%88.md)
 *  [Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+*  [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks/)
+*  [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
 
 ***
 ### 前端资源搜索

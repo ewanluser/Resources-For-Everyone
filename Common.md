@@ -103,9 +103,7 @@
 * UI框架：Foundation，Boostrap，Pure，EasyUI，Polymer
 * 前端UI设计师必去的几个网站：Dribbble，awwwards，unmatchedstyle，UIMaker
 * Mozilla 开发者中心：[https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
-
-图标资源：IcoMoon（我的最爱），Themify Icons，FreePik，Glyphiconsart
-
+* 图标资源：IcoMoon（我的最爱），Themify Icons，FreePik，Glyphiconsart
 *   Dialog:非常漂亮的对话框
 *   AdminLTE：github上的一个开源项目，基于Boostrap3的后台管理页面框架
 *   Respond.js：让不懂爱的IE6-8支持响应式设计
