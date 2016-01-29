@@ -1,8 +1,8 @@
 # 从零开始NodeJS主题系列
 
 ### NodeJS资源列表
-* [node.js中文资料导航](https://github.com/youyudehexie/node123?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[node.js中文资料导航](https://github.com/youyudehexie/node123?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+[Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## 从零开始 – 入门篇
 
